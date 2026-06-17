@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Sudarshan Kumar! 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=AI-Assisted+Developer+🤖;Prompt+Engineer+⚡;Full-Stack+Explorer+🚀;Welcome+To+My+Profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sudarshan!;AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Explorer&v=1" alt="Typing SVG" />
   
   <br>
   <!-- Aesthetic Coding GIF -->
@@ -26,7 +26,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudarshankumar143&theme=tokyonight&margin-w=15&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudarshankumar143&theme=tokyonight&margin-w=15&column=7&no-frame=true&no-bg=true&v=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -101,14 +101,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshankumar143&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### 🐍 Contribution Activity (Snake Game)
-<!-- Note: The snake animation requires a GitHub Action setup to work. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudarshankumar143/Sudarshankumar143/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
