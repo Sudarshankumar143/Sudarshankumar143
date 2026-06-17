@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sudarshan+Kumar!+👋;AI-Assisted+Developer+🤖;Prompt+Engineer+⚡;Welcome+To+My+Profile!+🚀" alt="Typing SVG" />
+  <h1>Hi, I'm Sudarshan Kumar! 👋</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=AI-Assisted+Developer+🤖;Prompt+Engineer+⚡;Full-Stack+Explorer+🚀;Welcome+To+My+Profile!+✨" alt="Typing SVG" />
   
   <br>
   <!-- Aesthetic Coding GIF -->
