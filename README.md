@@ -1,11 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Sudarshan Kumar! 👋</h1>
+  <!-- Aesthetic Anime Coding GIF -->
+  <img src="https://i.pinimg.com/originals/e0/7a/65/e07a659779261a86e902c659d43033f6.gif" width="400" alt="Anime Coding">
+  <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sudarshan!;AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Explorer&v=1" alt="Typing SVG" />
-  
-  <br>
-  <!-- Aesthetic Coding GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ae-4b86-b8f6-44c52a58eaa8.gif" width="350" alt="Coding Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Explorer&v=1" alt="Typing SVG" />
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=Sudarshankumar143&label=Profile%20Views&color=8E75FF&style=for-the-badge" alt="Profile Views" />
@@ -21,13 +19,6 @@
 - 👯 **Looking to collaborate on:** Open-source projects and AI-driven applications.
 - 🧠 **Thinking in algorithms:** Coding with AI precision to build things fast.
 - ⚡ **Fun Fact:** My code works, and Gemini knows why! 😉
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudarshankumar143&theme=tokyonight&margin-w=15&column=7&no-frame=true&no-bg=true&v=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -48,17 +39,13 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   <br><br>
 
   **⚙️ Backend & DB**<br>
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   <br><br>
 
   **🤖 AI & Tools**<br>
@@ -124,3 +111,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
