@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/e0/7a/65/e07a659779261a86e902c659d43033f6.gif" width="400" alt="Anime Coding">
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=500&lines=AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Explorer&v=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8E75FF&center=true&vCenter=true&width=600&lines=Hey+dear,+I+am+Sudarshan+Kumar;AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Explorer&v=1" alt="Typing SVG" />
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=Sudarshankumar143&label=Profile%20Views&color=8E75FF&style=for-the-badge" alt="Profile Views" />
