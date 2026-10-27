@@ -1,98 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9c,50:0066ff,100:ff2e97&height=240&section=header&text=SUDARSHAN%20GUPTA&fontSize=52&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=%7B%20code%20%7D%20%2B%20%7B%20design%20%7D%20%3D%20%7B%20products%20%7D&descAlignY=64&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=220&section=header&text=Sudarshan%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=$+whoami+%E2%86%92+sudarshan_gupta;$+role+%E2%86%92+full_stack_developer+(in+the+making);$+status+%E2%86%92+shipping+projects+daily;$+coffee+%E2%86%92+100%25+loaded+%E2%98%95" alt="typing" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;Turning+ideas+into+real+products;React+%7C+Node.js+%7C+Tailwind;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff9c&style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=ff2e97&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=0066ff&labelColor=0d1117" />
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=yellow)
 
 </div>
 
-<br/>
+---
 
-## `> cat about.json`
+## 👨‍💻 About Me
 
-```json
-{
-  "name": "Sudarshan Gupta",
-  "title": "Web Developer",
-  "education": "BSc",
-  "mission": "Build useful products that real people use",
-  "stack": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-  "learning": ["Backend", "Databases", "System Design"],
-  "building": ["Portfolio", "Website to APK Builder", "AI Tools"],
-  "available_for": ["Internships", "Freelance", "Collabs"],
-  "contact": "sudarshanguptaxyz@gmail.com"
-}
+```js
+const sudarshan = {
+  role: "Full Stack Web Developer",
+  education: "BSc Student",
+  focus: ["Frontend", "Backend", "UI/UX"],
+  currentlyLearning: ["React", "Node.js", "MongoDB"],
+  currentlyBuilding: ["Portfolio", "Web Products"],
+  funFact: "I turn caffeine into code ☕",
+  openTo: ["Freelance", "Internships", "Collaborations"],
+};
 ```
 
-<br/>
+---
 
-## `> ls skills/`
+## 🛠️ Tech Arsenal
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,figma,vercel,python&theme=dark&perline=8" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Frameworks & Libraries**
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## `> git log --featured`
+**Tools & Platforms**
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=ff2e97&text_color=c9d1d9&border_color=30363d" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=ff2e97&text_color=c9d1d9&border_color=30363d" />
-</a>
+---
 
-<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=ff2e97&text_color=c9d1d9&border_color=30363d" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=ff2e97&text_color=c9d1d9&border_color=30363d" />
-</a>
+## 🚀 Featured Projects
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Project One</h3>
+      <p>Short one-line description of what it does and why it matters.</p>
+      <p><b>Stack:</b> React • Node.js • MongoDB</p>
+      <a href="LIVE_LINK">🔗 Live Demo</a> • <a href="REPO_LINK">📂 Source</a>
+    </td>
+    <td width="50%">
+      <h3>⚡ Project Two</h3>
+      <p>Short one-line description of what it does and why it matters.</p>
+      <p><b>Stack:</b> HTML • CSS • JavaScript</p>
+      <a href="LIVE_LINK">🔗 Live Demo</a> • <a href="REPO_LINK">📂 Source</a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-## `> npm run stats`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff9c&icon_color=ff2e97&text_color=c9d1d9&border_color=30363d&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=30363d" />
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=0D1117&ring=00FF9C&fire=FF2E97&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&border=30363D" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=0066ff&point=ff2e97&area=true&area_color=0066ff&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-## `> ping sudarshan`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="mailto:sudarshanguptaxyz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117&color=30363d" /></a>
-<a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0066ff&labelColor=0d1117&color=30363d" /></a>
-<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ff2e97&labelColor=0d1117&color=30363d" /></a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<sub>`while (alive) { learn(); build(); ship(); }`</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2e97,50:0066ff,100:00ff9c&height=100&section=footer" width="100%"/>
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarshanguptaxyz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+
+<i>⭐ If you like something here, drop a star!</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=100&section=footer" width="100%"/>
